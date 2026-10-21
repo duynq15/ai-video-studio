@@ -1,0 +1,36 @@
+CIT Voice Studio — Proprietary License
+Copyright (c) 2026 Cường IT. All rights reserved.
+
+This repository contains documentation, notices and release metadata for
+CIT Voice Studio ("the Software"). The Software itself (application binaries
+and source code) is proprietary and is not published in this repository.
+
+1. Permission to use
+   You may download and use the official release binaries free of charge for
+   personal and commercial purposes, subject to the terms of use in
+   DIEU-KHOAN.md. No fee or royalty is required.
+
+2. Restrictions
+   You may not reverse engineer, decompile, modify, redistribute or sell the
+   Software or any modified build, except where such restriction is prohibited
+   by applicable law or expressly permitted in writing by the copyright holder.
+
+3. Documentation
+   The documentation in this repository may be read, quoted and shared with
+   attribution to the author. It may not be relicensed or presented as your own.
+
+4. Third-party components
+   The Software includes or downloads third-party components under their own
+   licenses, including:
+     - VieNeu-TTS (Apache License 2.0)
+     - Supertonic 3 (OpenRAIL-M) — downloaded separately by the user
+     - LGPL libraries (libsndfile, LAME, mpg123, libsoxr)
+   Those components remain under their respective licenses. See
+   THIRD-PARTY-NOTICES.md for details and source links.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+For licensing questions, contact the author via the links in README.md.

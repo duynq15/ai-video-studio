@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "PowerShell(gh repo view DuyNQ/ai-video-studio --json name,visibility,licenseInfo,url 2>&1)",
+      "Bash(curl -s https://api.github.com/repos/DuyNQ/ai-video-studio)",
+      "Bash(curl -s https://api.github.com/repos/DuyNQ/ai-video-studio/license)",
+      "Bash(curl -s \"https://img.shields.io/github/license/DuyNQ/ai-video-studio?style=for-the-badge&color=green\")"
+    ]
+  }
+}

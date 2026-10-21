@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# Build / render outputs
+dist/
+build/
+out/
+output/
+renders/
+snapshots/
+SFX/
+.hyperframes/
+.thumbnails/
+.waveform-cache/
+
+# Python env (CIT Voice Studio / edge-tts experiments)
+.venv/
+
+# Logs / OS
+*.log
+.DS_Store
